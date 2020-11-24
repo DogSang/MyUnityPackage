@@ -1,0 +1,17 @@
+{
+  "name": "com.sangs.tools",
+  "version": "1.0.1",
+  "displayName": "SangsTools",
+  "description": "this is my tools",
+  "unity": "2019.1",
+  "keywords": [
+    "Sang",
+    "Tool"
+  ],
+  "author": {
+    "name": "Sang",
+    "email": "SangsEmail",
+    "url": "empty"
+  },
+  "type": "tool"
+}
