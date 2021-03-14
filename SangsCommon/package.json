@@ -1,0 +1,19 @@
+{
+  "name": "com.dogsang.common",
+  "version": "0.0.1",
+  "displayName": "Sang'sCommonTools",
+  "description": "this is my common tools",
+  "unity": "2020.1",
+  "keywords": [
+    "DogSang",
+    "Sangs",
+    "Common",
+    "Tools"
+  ],
+  "author": {
+    "name": "DogSang",
+    "email": "DogSang",
+    "url": "DogSang"
+  },
+  "type": "tool"
+}
